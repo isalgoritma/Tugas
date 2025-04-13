@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\Sistem_Manajemen_Karyawan\Sistem_Manajemen_Karyawan\bin\Debug\net8.0\Sistem_Manajemen_Karyawan.exe
+C:\Users\admin\source\repos\Sistem_Manajemen_Karyawan\Sistem_Manajemen_Karyawan\bin\Debug\net8.0\Sistem_Manajemen_Karyawan.deps.json
+C:\Users\admin\source\repos\Sistem_Manajemen_Karyawan\Sistem_Manajemen_Karyawan\bin\Debug\net8.0\Sistem_Manajemen_Karyawan.runtimeconfig.json
+C:\Users\admin\source\repos\Sistem_Manajemen_Karyawan\Sistem_Manajemen_Karyawan\bin\Debug\net8.0\Sistem_Manajemen_Karyawan.dll
+C:\Users\admin\source\repos\Sistem_Manajemen_Karyawan\Sistem_Manajemen_Karyawan\bin\Debug\net8.0\Sistem_Manajemen_Karyawan.pdb
+C:\Users\admin\source\repos\Sistem_Manajemen_Karyawan\Sistem_Manajemen_Karyawan\obj\Debug\net8.0\Sistem_Manajemen_Karyawan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Sistem_Manajemen_Karyawan\Sistem_Manajemen_Karyawan\obj\Debug\net8.0\Sistem_Manajemen_Karyawan.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Sistem_Manajemen_Karyawan\Sistem_Manajemen_Karyawan\obj\Debug\net8.0\Sistem_Manajemen_Karyawan.AssemblyInfo.cs
+C:\Users\admin\source\repos\Sistem_Manajemen_Karyawan\Sistem_Manajemen_Karyawan\obj\Debug\net8.0\Sistem_Manajemen_Karyawan.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Sistem_Manajemen_Karyawan\Sistem_Manajemen_Karyawan\obj\Debug\net8.0\Sistem_Manajemen_Karyawan.dll
+C:\Users\admin\source\repos\Sistem_Manajemen_Karyawan\Sistem_Manajemen_Karyawan\obj\Debug\net8.0\refint\Sistem_Manajemen_Karyawan.dll
+C:\Users\admin\source\repos\Sistem_Manajemen_Karyawan\Sistem_Manajemen_Karyawan\obj\Debug\net8.0\Sistem_Manajemen_Karyawan.pdb
+C:\Users\admin\source\repos\Sistem_Manajemen_Karyawan\Sistem_Manajemen_Karyawan\obj\Debug\net8.0\Sistem_Manajemen_Karyawan.genruntimeconfig.cache
+C:\Users\admin\source\repos\Sistem_Manajemen_Karyawan\Sistem_Manajemen_Karyawan\obj\Debug\net8.0\ref\Sistem_Manajemen_Karyawan.dll
