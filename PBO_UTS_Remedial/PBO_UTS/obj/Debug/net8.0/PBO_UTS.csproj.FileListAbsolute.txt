@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\PBO_UTS\PBO_UTS\bin\Debug\net8.0\PBO_UTS.exe
+C:\Users\admin\source\repos\PBO_UTS\PBO_UTS\bin\Debug\net8.0\PBO_UTS.deps.json
+C:\Users\admin\source\repos\PBO_UTS\PBO_UTS\bin\Debug\net8.0\PBO_UTS.runtimeconfig.json
+C:\Users\admin\source\repos\PBO_UTS\PBO_UTS\bin\Debug\net8.0\PBO_UTS.dll
+C:\Users\admin\source\repos\PBO_UTS\PBO_UTS\bin\Debug\net8.0\PBO_UTS.pdb
+C:\Users\admin\source\repos\PBO_UTS\PBO_UTS\obj\Debug\net8.0\PBO_UTS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\PBO_UTS\PBO_UTS\obj\Debug\net8.0\PBO_UTS.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\PBO_UTS\PBO_UTS\obj\Debug\net8.0\PBO_UTS.AssemblyInfo.cs
+C:\Users\admin\source\repos\PBO_UTS\PBO_UTS\obj\Debug\net8.0\PBO_UTS.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\PBO_UTS\PBO_UTS\obj\Debug\net8.0\PBO_UTS.dll
+C:\Users\admin\source\repos\PBO_UTS\PBO_UTS\obj\Debug\net8.0\refint\PBO_UTS.dll
+C:\Users\admin\source\repos\PBO_UTS\PBO_UTS\obj\Debug\net8.0\PBO_UTS.pdb
+C:\Users\admin\source\repos\PBO_UTS\PBO_UTS\obj\Debug\net8.0\PBO_UTS.genruntimeconfig.cache
+C:\Users\admin\source\repos\PBO_UTS\PBO_UTS\obj\Debug\net8.0\ref\PBO_UTS.dll
